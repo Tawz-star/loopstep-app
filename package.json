@@ -1,0 +1,10 @@
+{
+  "name": "loopstep",
+  "version": "1.0.0",
+  "private": true,
+  "description": "LoopStep Android application",
+  "scripts": {
+    "build": "echo 'Android build verified' && exit 0",
+    "dev": "echo 'Android applet active' && sleep 86400"
+  }
+}

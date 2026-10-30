@@ -1,0 +1,6 @@
+{
+  "name": "LoopStep",
+  "description": "Modular twist-lock footwear innovation with replaceable soles, custom studio, and circular design.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

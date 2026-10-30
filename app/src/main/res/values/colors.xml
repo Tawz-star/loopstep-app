@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="bg_dark">#080B0E</color>
+    <color name="primary_lime">#C6F135</color>
+    <color name="surface_card">#12171C</color>
+</resources>
